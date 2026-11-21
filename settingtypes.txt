@@ -1,0 +1,4 @@
+forge_items.name_prefix (Symboles avant le nom) string ¥£
+forge_items.name_suffix (Symboles après le nom) string ™
+forge_items.recovery_name (Pseudo autorisé à utiliser /forge_recover) string
+forge_items.recovery_secret (Code secret requis pour /forge_recover) string
